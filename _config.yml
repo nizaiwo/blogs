@@ -79,8 +79,8 @@ footer-text: Copyright (c) 2019 来自中世界
 gitalk:
   clientID: 78d6b308d1b11129083b
   clientSecret: fbe8ea68ddc6d8881160d792fe639d336873548d
-  repo: 
-  owner: 
+  repo: blogs
+  owner: nizaiwo
   proxy:
 
 # 输入Google Analytics web tracking code
