@@ -2,7 +2,7 @@ LOFFER是个可以帮助你get off from LOFTER的软件。
 
 这是一个可以发布在GitHub的Jekyll博客，你不需要编写代码或使用命令行即可获得一个部署在GitHub的博客。
 
-现在我将此文档和基础教程分开了，此文档用于说明LOFFER的现有功能和更新情况，**查看为无代码基础者写的教程[请点这里](https://fromendworld.github.io/LOFFER/document/)**
+此文档用于说明LOFFER的现有功能和更新情况，**查看为无代码基础者写的教程[请点这里](https://fromendworld.github.io/LOFFER/document/)**
 
 ## 其他的使用tips
 
@@ -46,9 +46,9 @@ LOFFER的默认状态是teal，要更换主题颜色，只要打开文件` _sass
 ## 致谢
 
 * [Jekyll](https://github.com/jekyll/jekyll) - 这是本站存在的根基
-* [Kiko-now](<https://github.com/aweekj/kiko-now>) - 我首先是fork这个主题，然后再其上进行修改汉化，才有了LOFFER
+* [Kiko-now](<https://github.com/aweekj/kiko-now>) - fork这个主题，然后再其上进行修改汉化，才有了LOFFER
 * [Font Awesome](<https://fontawesome.com/>) - 社交网络图标来自FontAwesome的免费开源内容
-
+* [FromEndWorld](<https://github.com/FromEndWorld/loffer>) - 感谢FromEndWorld制作的LOFFER
 
 ## 帮助这个项目
 
