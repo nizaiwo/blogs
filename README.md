@@ -58,4 +58,4 @@ LOFFER的默认状态是teal，要更换主题颜色，只要打开文件` _sass
 
 给原作者项目点一个☆吧！（点击下图即可打开原作者github链接）
 
-![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
+[![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)](https://github.com/FromEndWorld/loffer)
