@@ -4,9 +4,7 @@ LOFFER是个可以帮助你get off from LOFTER的软件。
 
 **查看为无代码基础者写的教程[请点这里](https://fromendworld.github.io/LOFFER/document/)**
 
-
-
-
+##  
 
 ## 帮助这个项目
 
