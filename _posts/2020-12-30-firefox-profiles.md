@@ -5,7 +5,7 @@ date: 2020-11-17
 Author: nizaiwo 
 tags: [skill]
 comments: true
-toc: true
+toc: false
 ---
 ```
 firefox误下载后找回原配置文件
